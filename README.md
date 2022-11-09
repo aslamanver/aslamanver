@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
+        height="130">
+</p>
+<p align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=aslamanverse">
+        <img src="https://img.shields.io/twitter/follow/aslamanverse?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+</p>
