@@ -1,6 +1,7 @@
 ### Find me on StackOverflow as Googlian
 
 [![](https://img.shields.io/badge/Aslam-passing-dark?style=plastic&logo=github)](#)
+[![](https://img.shields.io/twitter/follow/aslamanverse?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=aslamanvers)
 
 <!--
 **aslamanver/aslamanver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=aslamanverse">
         <img src="https://img.shields.io/twitter/follow/aslamanverse?style=social&logo=twitter"
             alt="follow on Twitter"></a>
-</p>
+</p> -->
