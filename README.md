@@ -1,6 +1,6 @@
 ### Find me on StackOverflow as Googlian
 
-![](https://img.shields.io/badge/Aslam-passing-dark?style=plastic&logo=github)
+[![](https://img.shields.io/badge/Aslam-passing-dark?style=plastic&logo=github)](#)
 
 <!--
 **aslamanver/aslamanver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
