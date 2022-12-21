@@ -2,6 +2,7 @@
 
 [![](https://img.shields.io/badge/Aslam-passing-dark?style=plastic&logo=github)](#)
 [![](https://img.shields.io/twitter/follow/aslamanverse?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=aslamanverse)
+<br/>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aslamanver)
 
 <!--
