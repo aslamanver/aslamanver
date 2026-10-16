@@ -4,21 +4,20 @@ Busy on contributing for Surge ❤️ Global, all are Private Repos.
 
 [![](https://img.shields.io/badge/Aslam-passing-dark?style=plastic&logo=github)](#)
 [![](https://img.shields.io/twitter/follow/aslamanverse?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=aslamanverse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aslamanver)
-
-
-[![Stack Overflow](http://stackoverflow.com/users/flair/5380942.png?theme=dark)](http://stackoverflow.com/users/5380942/googlian)
-
-*How can I help you ?*<br/>
-[![](https://i.imgur.com/woMj2fH.gif)](https://www.linkedin.com/in/aslamanver)
 
 <hr>
 
+*On a mission to help and contribute.*<br/>
+
 An engineering leader and open-source contributor rooted in pre-LLM ground-up architecture and excelling in the modern AI-driven landscape with 9+ years of experience, building future-proof solutions for complex real-life problems using robust code while focusing on performance and scalability. In previous roles, increased the performance of the product by 75% by restructuring the source code to focus on resource consumption; discovered the long-term performance bottleneck in production, and re-implemented an appropriate solution within the determined cost. Enthusiastic about contributing to and guiding the open-source community with unique, robust solutions.
+
+<hr>
 
 [GitHub](https://github.com/aslamanver) •
 [LinkedIn](https://www.linkedin.com/in/aslamanver) •
 [Medium](https://aslamanver.medium.com)
+
+[![Stack Overflow](http://stackoverflow.com/users/flair/5380942.png?theme=dark)](http://stackoverflow.com/users/5380942/googlian)
 
 Thank you for visiting my profile. 
   
