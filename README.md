@@ -7,7 +7,7 @@ Busy on contributing for Surge ❤️ Global, all are Private Repos.
 <br/>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aslamanver)
 <br/>
-[![Stack Overflow](http://stackoverflow.com/users/flair/5380942.png)](http://stackoverflow.com/users/5380942/googlian)
+[![Stack Overflow](http://stackoverflow.com/users/flair/5380942.png?theme=dark)](http://stackoverflow.com/users/5380942/googlian)
 
 <!--
 **aslamanver/aslamanver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
